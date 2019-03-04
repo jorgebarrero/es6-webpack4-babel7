@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seetd-knowledge/es6-webpack4-babel7.git"
+    "url": "https://github.com/jorgebarrero/es6-webpack4-babel7"
   },
   "keywords": [
     "babel",
@@ -19,9 +19,9 @@
   "author": "Darren Seet",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/seetd-knowledge/es6-webpack4-babel7/issues"
+    "url": "https://github.com/jorgebarrero/es6-webpack4-babel7/issues"
   },
-  "homepage": "https://github.com/seetd-knowledge/es6-webpack4-babel7#readme",
+  "homepage": "https://github.com/jorgebarrero/es6-webpack4-babel7#readme",
   "devDependencies": {
     "@babel/core": "7.2.2",
     "@babel/preset-env": "7.3.1",
